@@ -79,6 +79,10 @@ section#home{
     background-size: cover;
 }
 
+#home h1{
+    color: white;
+}
+
 section#portfolio{
     display: flex;
     align-items: center;
